@@ -1,0 +1,13 @@
+${AnsiColor.BRIGHT_CYAN}
+ ____ ___  ______________________________  _________
+|    |   \/   _____/\_   _____/\______   \/   _____/
+|    |   /\_____  \  |    __|  |       _/\_____  \ 
+|    |  / /        \ |        \ |    |   \/        \
+|______/ /_______  //_______  / |____|_  /_______  /
+                 \/         \/         \/        \/ 
+
+${AnsiColor.DEFAULT}
+ :: MySQL Demo API ::
+ 
+ ${AnsiColor.BRIGHT_YELLOW}Spring Boot Version: ${spring-boot.formatted-version}
+ ${AnsiColor.BRIGHT_GREEN}App Version: v${application.version}${AnsiColor.DEFAULT}
