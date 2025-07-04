@@ -1,4 +1,4 @@
-# 🚀 practice-ms
+# 🚀 Practice-SpringBatch
 
 > Proyecto de ejemplo usando Spring Boot + Spring Batch 🧰
 
