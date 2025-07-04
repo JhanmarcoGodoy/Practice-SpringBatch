@@ -18,23 +18,6 @@
 - 📄 Conexión establecida con **MySQL local** para lectura y escritura de datos.
 - 🖼️ Incluye un **banner personalizado** que se muestra al iniciar el microservicio 🌟.
 
----
-
-## 📂 Estructura general
-practice-ms/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ └── resources/
-│ │ ├── application.properties 📑
-│ │ └── banner.txt 🖼️
-├── pom.xml 🧪
-└── README.md 📘
-
-yaml
-Copiar
-Editar
-
 
 ---
 
